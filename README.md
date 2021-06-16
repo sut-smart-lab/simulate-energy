@@ -23,3 +23,5 @@
 [เรื่องของแคล้มป์มิเตอร์](http://www.praguynakorn.com/tips/13/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B9%8C%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C)
 
 [การใช้งาน Clamp Meter](https://www.factomart.com/th/factomartblog/cat/test-equipment/post/application-of-clamp-meter/)
+
+[Miniature Clamp Type AC Current Sensor](https://www.monotaro.co.th/p/62905282.html?utm_medium=cpc&utm_source=googleps&gclid=CjwKCAjwn6GGBhADEiwAruUcKpcrIVbYeetii0Ob9FpAyhBi4qRVD85bHL_THaSussjRbtP3YySyghoCPpMQAvD_BwE)
