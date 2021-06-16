@@ -14,3 +14,4 @@
 
 [สวิทช์สลับไฟโซล่าเซลล์-ไฟบ้าน](https://www.youtube.com/watch?v=w_3py5iDpxY)
 
+[อธิบายหน่วยพื้นฐานไฟฟ้า โวลต์ แอมป์และวัตต์คืออะไร (Basic electricity: Volts,Amps and Watts)](https://www.youtube.com/watch?v=0S6txWByxLU)
