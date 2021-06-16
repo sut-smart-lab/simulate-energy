@@ -7,3 +7,5 @@
 
 [โซลาร์รูฟท็อป](https://www.checkraka.com/house/article/111468/)
 
+[ไฟฟ้ากระแสตรง(DC) และกระแสสลับ(AC) แตกต่างกันอย่างไร?](https://legatool.com/wp/12063/)
+
