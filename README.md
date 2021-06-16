@@ -12,3 +12,5 @@
 
 [ Automatic Transfer Switch(สลับไฟฟ้าบ้านกับโซล่าเซลล์แบบอัตโนมัติ)](https://www.youtube.com/watch?v=PnlVNb2I524)
 
+[สวิทช์สลับไฟโซล่าเซลล์-ไฟบ้าน](https://www.youtube.com/watch?v=w_3py5iDpxY)
+
