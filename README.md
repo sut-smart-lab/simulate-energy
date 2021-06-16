@@ -19,3 +19,7 @@
 [Power meter เครื่องวัดค่าไฟฟ้าในบ้าน](https://www.youtube.com/watch?v=OR8op3rJGI8)
 
 [AC Power meter Online , Arduino,ESP8266,PZEM004t,PZEM-004t (IOT) ระบบตรวจวัดพลังงานไฟฟ้า เเสดงผลผ่าน website (Momo Space Platform) ,mobile app เเละระบบเเจ้งเตือนผ่าน Line](https://www.lazada.co.th/products/ac-power-meter-online-arduinoesp8266pzem004tpzem-004t-iot-website-momo-space-platform-mobile-app-line-i1643468684-s7717424954.html)
+
+[เรื่องของแคล้มป์มิเตอร์](http://www.praguynakorn.com/tips/13/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B9%8C%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C)
+
+[การใช้งาน Clamp Meter](https://www.factomart.com/th/factomartblog/cat/test-equipment/post/application-of-clamp-meter/)
