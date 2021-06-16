@@ -17,3 +17,5 @@
 [อธิบายหน่วยพื้นฐานไฟฟ้า โวลต์ แอมป์และวัตต์คืออะไร (Basic electricity: Volts,Amps and Watts)](https://www.youtube.com/watch?v=0S6txWByxLU)
 
 [Power meter เครื่องวัดค่าไฟฟ้าในบ้าน](https://www.youtube.com/watch?v=OR8op3rJGI8)
+
+[AC Power meter Online , Arduino,ESP8266,PZEM004t,PZEM-004t (IOT) ระบบตรวจวัดพลังงานไฟฟ้า เเสดงผลผ่าน website (Momo Space Platform) ,mobile app เเละระบบเเจ้งเตือนผ่าน Line](https://www.lazada.co.th/products/ac-power-meter-online-arduinoesp8266pzem004tpzem-004t-iot-website-momo-space-platform-mobile-app-line-i1643468684-s7717424954.html)
