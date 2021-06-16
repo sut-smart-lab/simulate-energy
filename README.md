@@ -9,3 +9,6 @@
 
 [ไฟฟ้ากระแสตรง(DC) และกระแสสลับ(AC) แตกต่างกันอย่างไร?](https://legatool.com/wp/12063/)
 
+
+[ Automatic Transfer Switch(สลับไฟฟ้าบ้านกับโซล่าเซลล์แบบอัตโนมัติ)](https://www.youtube.com/watch?v=PnlVNb2I524)
+
