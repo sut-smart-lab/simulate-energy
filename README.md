@@ -26,4 +26,7 @@
 
 [Miniature Clamp Type AC Current Sensor](https://www.monotaro.co.th/p/62905282.html?utm_medium=cpc&utm_source=googleps&gclid=CjwKCAjwn6GGBhADEiwAruUcKpcrIVbYeetii0Ob9FpAyhBi4qRVD85bHL_THaSussjRbtP3YySyghoCPpMQAvD_BwE)
 
-[นวัตกรรมบ้านเย็น ช่วยบ้านประหยัดค่าไฟ](https://www.scgbuildingmaterials.com/th/ideas/home-story/bwh-3-innovation-decrease-electric-expense)
+[นวัตกรรมบ้านเย็น ช่วยบ้านประหยัดค่าไฟ SCG](https://www.scgbuildingmaterials.com/th/ideas/home-story/bwh-3-innovation-decrease-electric-expense)
+
+[ATS สลับไฟอัตโนมัติ ให้ดูนาทีที่ 2.13](https://www.youtube.com/watch?v=zbeJbHwIzSA)
+
