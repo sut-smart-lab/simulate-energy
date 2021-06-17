@@ -30,5 +30,14 @@
 
 [ATS สลับไฟอัตโนมัติ ให้ดูนาทีที่ 2.13](https://www.youtube.com/watch?v=zbeJbHwIzSA)
 
+[รู้จักการเลือกใช้ชาร์จเจอร์ให้เหมาะกับระบบ](https://www.youtube.com/watch?v=pdwM9UmUQS0)
+
+[คำนวณระบบโชล่าเชลล์จากแผงไป หาแบตเตอรี่ ชารจ์เจอร์ อินเวอร์เตอร์](https://www.youtube.com/watch?v=6mGD8Sxwmis)
+
 [โซล่าเซลล์​ หลอดไฟ 50 วัตต์ 12 โวลท์เปิด 12 ชั่วโมง จะต้องใช้แผงกี่​วัตต์​ การคำนวณเบื้องต้น**ยังดูไม่จบ](https://www.youtube.com/watch?v=7Pje9BbTVYs)
+
+[คำนวณระบบโชล่าเชลล์จากแผงไป หาแบตเตอรี่ ชารจ์เจอร์ อินเวอร์เตอร์**ยังไม่ดู](https://www.youtube.com/watch?v=6mGD8Sxwmis)
+
+[[How to] การคำนวณระบบออกแบบโซลาร์เซลล์ | คนบันดาลไฟ**อันนี้น่าสนใจ เข้าใจง่าย แต่ยังไม่เข้าใจ](https://www.youtube.com/watch?v=PiiqBfjEqec)
+
 
